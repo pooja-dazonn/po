@@ -50,7 +50,7 @@
         <br><br> 
         <input type="submit" name="login" id="login" value="LOGIN">       
         <br><br>  
-         <a href="forget.php"> Forgot password? </a>
+         <a href="forgetpswd.php"> Forgot password? </a>
     </form>    
   </div> 
   </div>  
