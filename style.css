@@ -1,0 +1,299 @@
+.creditials {
+margin: auto;
+  width: 37%;
+}
+h2 {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+li {
+  list-style: none;
+}
+form#contact_form {
+  margin: auto;
+  width: 82%;
+  text-align: -webkit-center;
+}
+.all {
+  margin-left: 85%;
+}
+.log-log {
+text-align: -webkit-center;
+}
+a {
+background-color: limegreen;
+}
+div#mySidebar {
+font-weight: bold;
+}
+/* login */
+
+
+
+.form {
+
+margin: 50px auto;
+
+width: 300px;
+
+padding: 30px 25px;
+
+background: white;
+
+}
+
+h1.login-title {
+
+color: #666;
+
+margin: 0px auto 25px;
+
+font-size: 25px;
+
+font-weight: 300;
+
+text-align: center;
+
+}
+
+.login-input {
+
+font-size: 15px;
+
+border: 1px solid #ccc;
+
+padding: 10px;
+
+margin-bottom: 25px;
+
+height: 25px;
+
+width: calc(100% - 23px);
+
+}
+
+.login-input:focus {
+
+border-color:#6e8095;
+
+outline: none;
+
+}
+
+.login-button {
+
+color: #fff;
+
+background: #55a1ff;
+
+border: 0;
+
+outline: 0;
+
+width: 100%;
+
+height: 50px;
+
+font-size: 16px;
+
+text-align: center;
+
+cursor: pointer;
+
+}
+
+.link {
+
+color: #666;
+
+font-size: 15px;
+
+text-align: center;
+
+margin-bottom: 0px;
+
+}
+
+.link a {
+
+color: #666;
+
+}
+
+h3 {
+
+font-weight: normal;
+
+text-align: center;
+
+}
+
+.w3-teal, .w3-hover-teal:hover {
+
+color: #fff!important;
+
+background-color: #0c0c0c!important;
+
+}
+
+form {
+
+text-align: center;
+
+}
+
+.w3-teal, .w3-hover-teal:hover {
+
+color: #fff!important;
+
+background-color: black;
+
+}
+
+fieldset {
+
+width: 29%;
+
+background-color: lightgray;
+
+}
+
+select#supplier {
+
+width: 120%;
+
+padding: 5%;
+
+}
+select {
+  width: 121%;
+}
+
+input#PO {
+
+width: 119%;
+
+}
+
+input#fromDate {
+
+width: 114%;
+
+}
+
+input#toDate {
+
+width: 114%;
+
+}
+
+select#desti {
+
+width: 120%;
+
+padding: 5%;
+
+}
+
+select#price_term {
+
+width: 120%;
+
+padding: 5%;
+
+}
+
+select#pay_term {
+
+width: 120%;
+
+padding: 5%;
+
+}
+
+select#category {
+
+width: 120%;
+
+padding: 5%;
+
+}
+
+.input-group {
+
+position: relative;
+
+display: table;
+
+border-collapse: separate;
+
+width: 58%;
+
+}
+
+
+
+div#userTable_length {
+
+margin-left: 9%;
+
+margin-top: 4%;
+
+display: none;
+
+}
+
+div#userTable_filter {
+
+margin-top: 4%;
+
+margin-right: 9%;
+
+display: none;
+
+}
+
+/*preview */
+
+
+.send {
+  margin-left: 81%;
+}
+.border {
+  border-style: double;
+}
+
+h6 {
+  margin-left: 30%;
+}
+.suppl {
+  text-align: -webkit-center;
+  width: 23%;
+  margin-left: 38%;
+  line-height: 1.7;
+}
+.form1-a {
+  margin-left: 53%;
+  margin-top: -9% 
+}
+.title {
+  margin-right: 33%;
+  margin-top: -18px;
+}
+/*email*/
+.email {
+  background-color: lightgrey;
+  width: 60%;
+  border: 15px solid green;
+  padding: 50px;
+  margin-left: 19%;
+}
+.formemail {
+  text-align: -webkit-center;
+}
+/*edit*/
+h4#myModalLabel {
+  text-align: center;
+}
